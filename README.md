@@ -10,7 +10,7 @@
 * tslint
 
 # Font
-I use fira font in my editor, follow https://github.com/tonsky/FiraCode
+I use fira font in my editor, follow https://github.com/tonsky/FiraCode nreugnuietn
 
 # git configure on windows
 
