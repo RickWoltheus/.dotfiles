@@ -6,11 +6,15 @@
 * ESlint
 * Graphql
 * indent rainbow
+* Rainbow brackets
 * npm intellisense
 * tslint
+* Project manager
+* editor config
+* material icons
 
 # Font
-I use fira font in my editor, follow https://github.com/tonsky/FiraCode nreugnuietn
+I use fira font in my editor, follow the steps at https://github.com/tonsky/FiraCode
 
 # Git configure on windows
 
