@@ -1,6 +1,5 @@
 {
     "workbench.iconTheme": "material-icon-theme",
-    "editor.formatOnSave": true,
     "[javascript]": {
         "editor.formatOnSave": true
     },
@@ -13,8 +12,16 @@
         120
     ],
     "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
-    "window.zoomLevel": -0.5,
+    "window.zoomLevel": -1,
     "editor.fontSize": 14,
     "editor.lineHeight": 24,
     "editor.letterSpacing": 0.5,
+    "git.autofetch": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.tslint": true
+    }
 }
